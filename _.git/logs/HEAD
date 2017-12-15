@@ -1,2 +1,2 @@
 0000000000000000000000000000000000000000 612b49e5fc46455e555a5e818b92e54febf1d6cd me <me@me-virtual-machine.(none)> 1509786726 +0200	clone: from https://bitbucket.org/superr/superrs-kitchen.git
-612b49e5fc46455e555a5e818b92e54febf1d6cd 94346b336dea9f599a11664db9e52eb6273aee1a me <me@me-virtual-machine.(none)> 1510783864 +0200	pull --recurse-submodules: Fast-forward
+612b49e5fc46455e555a5e818b92e54febf1d6cd ea2ea9bac01d6a3e9eae9e781ff5df739c5c4d64 root <root@me-virtual-machine.(none)> 1513346333 +0200	pull --recurse-submodules: Fast-forward
